@@ -1,0 +1,24 @@
+def greet_user(name):
+    print("Hello,",name)
+# calling function with argument
+greet_user("hero")
+
+
+def add (a,b):
+    print("sum is:",a+b)
+add (5,10)
+    
+    
+def introduce (name,age):
+    print(f"my name is {saithurpati} and i am {20} years old,")
+    introduce(age = 20, name = "saithurpati")
+    
+    
+def  greet (name = "Guest"):
+    print("Hello,",name)
+greet()
+greet("ram")
+    
+    
+    
+    
